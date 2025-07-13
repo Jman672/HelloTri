@@ -18,3 +18,5 @@ Hello Triangle with Vulkan
     - It will get the attention of a proper side project with some of my remaining free time after work, relationship, and friends
 
 Overall, I am looking forward to learning more and more and will continue to add to this readme as a type of journal to catalog my experience
+
+//I just finished the Presentation section of the tutorial and have set up the surface, swapchain, and image views
